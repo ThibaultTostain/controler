@@ -28,6 +28,11 @@ Puis des tutos sur des parties plus précises :
 
 ### Le souhait de traiter le signal au départ et tout faire soi-même
 
+Au départ je souhaitais faire une vraie manette xbox pour mon ordinateur. Finalement, j'ai voulu y aller étape par étape car le projet semblait trop compliqué pour l'instant. Voici quelques images de ce j'avais avant de changer d'idée
+
+![image](https://github.com/ThibaultTostain/controllers/blob/afe7c352c5dbc51156bcda18fa8cb560bcfa6329/manette_xbox_fils_brute/imgs/ancienne_version_img_01.PNG)
+![image](https://github.com/ThibaultTostain/controllers/blob/afe7c352c5dbc51156bcda18fa8cb560bcfa6329/manette_xbox_fils_brute/imgs/ancienne_version_img_02.PNG)
+![image](https://github.com/ThibaultTostain/controllers/blob/afe7c352c5dbc51156bcda18fa8cb560bcfa6329/manette_xbox_fils_brute/imgs/ancienne_version_img_03.PNG)
 
 ### Changement de direction : pas de traitement et on ne fait pas tout
 
