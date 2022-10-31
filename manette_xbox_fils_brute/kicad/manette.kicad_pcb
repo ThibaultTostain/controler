@@ -1557,7 +1557,7 @@
   (gr_circle (center 105.73 107.544164) (end 107.73 107.544164) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp c2360d54-6119-40c4-aa74-29c68b516164))
   (gr_circle (center 179.73 82.544164) (end 181.73 82.544164) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp c2453d67-abf6-466e-8d4c-e0162123d91f))
   (gr_circle (center 104.73 73.544164) (end 106.73 73.544164) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp c775c587-6e4b-46f7-9fea-0af29acfdde5))
-  (gr_circle (center 187.73 111.544164) (end 189.73 111.544164) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp e7215aad-c363-434d-9a47-22b41ebc428b))
+  (gr_circle (center 189 111.544164) (end 191 111.544164) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp e7215aad-c363-434d-9a47-22b41ebc428b))
   (dimension (type orthogonal) (layer "F.SilkS") (tstamp 1ae68c0f-e995-4ded-a94d-804c7e496891)
     (pts (xy 104.73 85.544164) (xy 125.23 108.544164))
     (height 80.91)
