@@ -72,7 +72,7 @@ On est passé de 106x74mm à 100x53mm, soit une réduction de 32% de la surface.
 
 [Plus d'image ici](https://github.com/ThibaultTostain/controllers/tree/main/manette_xbox_fils_brute/imgs)
 
-### Prochaine étape : mettre une extension de ports Arduino intégré tout en restant dans les tailles limites
+### Prochaines étapes : mettre une extension de ports Arduino intégré & un écran tout en restant dans les tailles limites
 
 Pour réduire le nombre de pins utilisés par la manette, j'aimerai ajouté une extension de ports arduino directement dans la manette pour n'utiliser que 2 pins Arduino mais tout de même garder les pins lisibles séparement par l'Arduino.
 
