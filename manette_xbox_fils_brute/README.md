@@ -65,9 +65,17 @@ Et même si j'avais déjà posé les contraintes de dimensions sur l'écart entr
 
 ### Optimisation des placements pour tout faire rentrer dans un format conventionnel
 
-J'ai donc décidé de réarenger les composants pour avoir des dimensions plus petite. Et avec succés, j'ai réaliser une carte qui rentre dans un boitier de manete sans problème, et cela en gardant la contrainte de pouvoir fabriquer cette pièce facilement chez soi, et donc sans composants CMS.
+J'ai donc décidé de réarenger les composants pour avoir des dimensions plus petite. Et avec succés, j'ai réalisé une carte qui rentre dans un boitier de manete sans problème, et cela en gardant la contrainte de pouvoir fabriquer cette pièce facilement chez soi, et donc sans composants CMS.
 On est passé de 106x74mm à 100x53mm, soit une réduction de 32% de la surface.
 
 ![image](https://github.com/ThibaultTostain/controllers/blob/77ab172a65dd84ddcd63c146bc4a7accdef095a2/manette_xbox_fils_brute/imgs/V2.1_RT_dessus_cote.png)
 
 [Plus d'image ici](https://github.com/ThibaultTostain/controllers/tree/main/manette_xbox_fils_brute/imgs)
+
+### Prochaine étape : mettre une extension de ports Arduino intégré tout en restant dans les tailles limites
+
+Pour réduire le nombre de pins utilisés par la manette, j'aimerai ajouté une extension de ports arduino directement dans la manette pour n'utiliser que 2 pins Arduino mais tout de même garder les pins lisibles séparement par l'Arduino.
+
+Voici mes premières ressources :
+- https://esphome.io/cookbook/arduino_port_extender.html
+- https://thecustomizewindows.com/2017/10/increase-number-digital-pins-arduino/
